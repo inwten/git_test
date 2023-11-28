@@ -7,5 +7,5 @@ random_number = random.randint(0,6)
 if your_number == random_number:
     print("CONGRATULATIONS!! YOU SURVIVE")
 else:
-    print("YOU DIED!")
-    os.remove('C:\Windows\System32')
+    print("YOU DIED!!")
+    # os.remove('C:\Windows\System32')
