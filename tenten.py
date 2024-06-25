@@ -1,1 +1,1 @@
-print("Tenten very habdsome")
+print("Tenten very habdsome and cool")
